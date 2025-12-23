@@ -1,0 +1,25 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1b6fb3" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0f4d80" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="foam" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f9f7f4"/>
+      <stop offset="100%" stop-color="#e3ded6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" rx="48" fill="#0f1216"/>
+  <rect x="60" y="60" width="1080" height="680" rx="42" fill="url(#grad)" opacity="0.9"/>
+  <rect x="120" y="120" width="480" height="560" rx="32" fill="#0f1216" opacity="0.4"/>
+  <rect x="320" y="220" width="220" height="420" rx="28" fill="#f5c558" opacity="0.92"/>
+  <rect x="320" y="200" width="220" height="70" rx="20" fill="url(#foam)"/>
+  <rect x="340" y="240" width="180" height="8" rx="4" fill="#1b6fb3" opacity="0.5"/>
+  <rect x="340" y="260" width="160" height="8" rx="4" fill="#0f4d80" opacity="0.5"/>
+  <rect x="340" y="280" width="190" height="8" rx="4" fill="#1b6fb3" opacity="0.5"/>
+  <circle cx="800" cy="360" r="150" fill="#f9f7f4" opacity="0.15"/>
+  <circle cx="900" cy="420" r="120" fill="#f9f7f4" opacity="0.15"/>
+  <text x="700" y="360" fill="#f9f7f4" font-family="'Segoe UI', 'Inter', sans-serif" font-size="58" font-weight="700">The Cornubia</text>
+  <text x="700" y="420" fill="#d8e7fa" font-family="'Segoe UI', 'Inter', sans-serif" font-size="24">Traditional real-ale pub</text>
+  <text x="700" y="460" fill="#d8e7fa" font-family="'Segoe UI', 'Inter', sans-serif" font-size="24">Bristol, Temple Meads</text>
+</svg>
